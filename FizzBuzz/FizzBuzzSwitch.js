@@ -11,8 +11,7 @@ let n = 15;
 
 let fizzBuzz = () => {
     let output = [];
-    let Fizz = false;
-    let Buzz = false;
+    let Fizz = false, Buzz = false;
 
     for (let i = 1; i<=n; i++) {
         Fizz = i%3 === 0;
