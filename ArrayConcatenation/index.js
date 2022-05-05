@@ -24,5 +24,5 @@ const thirdConcatMethod = () => {
 };
 
 console.log(firstConcatMethod(nums));
-console.log(SecondConcatMethod(nums));
-console.log(ThirdConcatMethod(nums));
+console.log(secondConcatMethod(nums));
+console.log(thirdConcatMethod(nums));
